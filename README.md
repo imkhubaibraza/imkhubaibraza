@@ -29,4 +29,4 @@ Here are some ideas to get you started:
  ![Khubaib's github stats](https://github-readme-stats.vercel.app/api?username=imkhubaibraza&show_icons=true&theme=radical)
 
 ![Follows](https://img.shields.io/github/followers/imkhubaibraza?style=social)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadkhubiabraza/)](https://www.linkedin.com/in/neha-duggirala/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadkhubiabraza/)](https://www.linkedin.com/in/muhammadkhubiabraza/)
