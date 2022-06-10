@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-    💻 I'm working as a Machine learning Engineer and also leading a team of engineers.
+    💻 I'm working as a Machine learning Engineer and leading a team of engineers.
     🌱 I’m currently learning NLP and MLOps.
     👯 I’m looking to collaborate for project on NLP
     💬 Ask me about anything, I'm happy to help!
